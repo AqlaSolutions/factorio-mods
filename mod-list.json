@@ -10,7 +10,7 @@
         },
         {
             "name": "alien-science",
-            "enabled": "true"
+            "enabled": "false"
         },
         {
             "name": "autofill",
@@ -21,8 +21,12 @@
             "enabled": "true"
         },
         {
-            "name": "endless-resources",
+            "name": "DefaultRequestAmount",
             "enabled": "true"
+        },
+        {
+            "name": "endless-resources",
+            "enabled": "false"
         },
         {
             "name": "EvoGUI",
@@ -58,7 +62,7 @@
         },
         {
             "name": "long-reach",
-            "enabled": "true"
+            "enabled": "false"
         },
         {
             "name": "MoreLight",
@@ -73,16 +77,20 @@
             "enabled": "true"
         },
         {
+            "name": "picker",
+            "enabled": "true"
+        },
+        {
             "name": "RailTanker",
             "enabled": "true"
         },
         {
             "name": "rso-mod",
-            "enabled": "true"
+            "enabled": "false"
         },
         {
             "name": "RSORadar",
-            "enabled": "true"
+            "enabled": "false"
         },
         {
             "name": "TheFatController",
