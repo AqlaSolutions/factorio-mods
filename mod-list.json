@@ -1,0 +1,84 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "advanced-logistics-system",
+            "enabled": "true"
+        },
+        {
+            "name": "autofill",
+            "enabled": "true"
+        },
+        {
+            "name": "AutoTrash",
+            "enabled": "true"
+        },
+        {
+            "name": "DefaultRequestAmount",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "true"
+        },
+        {
+            "name": "ExtraToolbelts",
+            "enabled": "true"
+        },
+        {
+            "name": "FARL",
+            "enabled": "true"
+        },
+        {
+            "name": "FastFilterFill",
+            "enabled": "true"
+        },
+        {
+            "name": "Foreman",
+            "enabled": "true"
+        },
+        {
+            "name": "Larger Inventory",
+            "enabled": "true"
+        },
+        {
+            "name": "long-reach",
+            "enabled": "true"
+        },
+        {
+            "name": "MoreLight",
+            "enabled": "true"
+        },
+        {
+            "name": "MoreLogisticsSlots",
+            "enabled": "true"
+        },
+        {
+            "name": "PersonalRoboportFix",
+            "enabled": "true"
+        },
+        {
+            "name": "picker",
+            "enabled": "true"
+        },
+        {
+            "name": "TheFatController",
+            "enabled": "true"
+        },
+        {
+            "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "upgrade-planner",
+            "enabled": "true"
+        },
+        {
+            "name": "YARM",
+            "enabled": "true"
+        }
+    ]
+}
