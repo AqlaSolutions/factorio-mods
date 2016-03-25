@@ -61,10 +61,6 @@
             "enabled": "true"
         },
         {
-            "name": "picker",
-            "enabled": "true"
-        },
-        {
             "name": "TheFatController",
             "enabled": "true"
         },
