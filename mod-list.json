@@ -21,6 +21,10 @@
             "enabled": "true"
         },
         {
+            "name": "DefaultRequestAmount",
+            "enabled": "true"
+        },
+        {
             "name": "endless-resources",
             "enabled": "true"
         },
