@@ -5,12 +5,20 @@
             "enabled": "true"
         },
         {
+            "name": "8L-Train-Project",
+            "enabled": "true"
+        },
+        {
             "name": "advanced-logistics-system",
             "enabled": "true"
         },
         {
             "name": "alien-science",
-            "enabled": "false"
+            "enabled": "true"
+        },
+        {
+            "name": "AutoDeconstruct",
+            "enabled": "true"
         },
         {
             "name": "autofill",
@@ -21,19 +29,67 @@
             "enabled": "true"
         },
         {
-            "name": "DefaultRequestAmount",
+            "name": "blueprint_flipper",
             "enabled": "true"
         },
         {
-            "name": "endless-resources",
-            "enabled": "false"
+            "name": "bobassembly",
+            "enabled": "true"
+        },
+        {
+            "name": "bobconfig",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelectronics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobenemies",
+            "enabled": "true"
+        },
+        {
+            "name": "boblibrary",
+            "enabled": "true"
+        },
+        {
+            "name": "boblogistics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmining",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmodules",
+            "enabled": "true"
+        },
+        {
+            "name": "bobores",
+            "enabled": "true"
+        },
+        {
+            "name": "bobplates",
+            "enabled": "true"
+        },
+        {
+            "name": "bobpower",
+            "enabled": "true"
+        },
+        {
+            "name": "bobtech",
+            "enabled": "true"
+        },
+        {
+            "name": "bobwarfare",
+            "enabled": "true"
         },
         {
             "name": "EvoGUI",
             "enabled": "true"
         },
         {
-            "name": "ExtraToolbelts",
+            "name": "Expanded_Robot_Tech",
             "enabled": "true"
         },
         {
@@ -49,6 +105,10 @@
             "enabled": "true"
         },
         {
+            "name": "GhostTime",
+            "enabled": "true"
+        },
+        {
             "name": "InitialScan",
             "enabled": "true"
         },
@@ -61,23 +121,31 @@
             "enabled": "true"
         },
         {
+            "name": "launch-control",
+            "enabled": "true"
+        },
+        {
+            "name": "Logistics Railway",
+            "enabled": "true"
+        },
+        {
             "name": "long-reach",
-            "enabled": "false"
+            "enabled": "true"
+        },
+        {
+            "name": "Minable Rock",
+            "enabled": "true"
+        },
+        {
+            "name": "ModuleInserter",
+            "enabled": "true"
         },
         {
             "name": "MoreLight",
             "enabled": "true"
         },
         {
-            "name": "MoreLogisticsSlots",
-            "enabled": "true"
-        },
-        {
-            "name": "PersonalRoboportFix",
-            "enabled": "true"
-        },
-        {
-            "name": "picker",
+            "name": "PocketRepair",
             "enabled": "true"
         },
         {
@@ -85,19 +153,27 @@
             "enabled": "true"
         },
         {
-            "name": "rso-mod",
-            "enabled": "false"
-        },
-        {
-            "name": "RSORadar",
-            "enabled": "false"
-        },
-        {
-            "name": "TheFatController",
+            "name": "research-queue",
             "enabled": "true"
         },
         {
-            "name": "Train-position-and-length-fix",
+            "name": "rso-mod",
+            "enabled": "true"
+        },
+        {
+            "name": "RSORadar",
+            "enabled": "true"
+        },
+        {
+            "name": "SmallFixes",
+            "enabled": "true"
+        },
+        {
+            "name": "SmartTrains",
+            "enabled": "true"
+        },
+        {
+            "name": "TheFatController",
             "enabled": "true"
         },
         {

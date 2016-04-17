@@ -16,15 +16,15 @@ override_type = 'full'    -- 'full' - no spawns by game are allowed, 'partially'
 
 use_donut_shapes = false		-- setting this to false will remove donuts from possible resource layouts
 
-starting_area_size = 1         	-- starting area in regions, safe from random nonsense
+starting_area_size = 2         	-- starting area in regions, safe from random nonsense
 
 absolute_resource_chance = 0.60 -- chance to spawn an resource in a region
-starting_richness_mult = 1		-- multiply starting area richness for resources
-global_richness_mult = 10		-- multiply richness for all resources except starting area
-global_size_mult = 1			-- multiply size for all ores, doesn't affect starting area
+starting_richness_mult = 4		-- multiply starting area richness for resources
+global_richness_mult = 5		-- multiply richness for all resources except starting area
+global_size_mult = 2			-- multiply size for all ores, doesn't affect starting area
 
-absolute_enemy_chance = 0.25	-- chance to spawn enemies per sector (can be more then one base if spawned)
-enemy_base_size_multiplier = 1  -- all base sizes will be multiplied by this - larger number means bigger bases
+absolute_enemy_chance = 0.5	-- chance to spawn enemies per sector (can be more then one base if spawned)
+enemy_base_size_multiplier = 1.5  -- all base sizes will be multiplied by this - larger number means bigger bases
 
 multi_resource_active = true			-- global switch for multi resource chances
 multi_resource_richness_factor = 0.60 	-- any additional resource is multiplied by this value times resources-1
@@ -42,8 +42,8 @@ deterministic = true           	-- set to false to use system for all decisions 
 -- endless_resource_mode = false   -- if true, the size of each resource is modified by the following modifier. Use with the endless resources mod.
 endless_resource_mode_sizeModifier = 0.80
 
-disableEnemyExpansion = true		-- allows for disabling of in-game biter base building
-disable_RSO_biter_spawning = true    -- if true, no biters will be spawned by RSO. Do not use with override_normal_spawn = true, because then no biters will be spawned at all.
+disableEnemyExpansion = false		-- allows for disabling of in-game biter base building
+disable_RSO_biter_spawning = false    -- if true, no biters will be spawned by RSO. Do not use with override_normal_spawn = true, because then no biters will be spawned at all.
 
 biter_ratio_segment=1      --the ratio components determining how many biters to spitters will be spawned
 spitter_ratio_segment=1    --eg. 1 and 1 -> equal number of biters and spitters,  10 and 1 -> 10 times as many biters to spitters
