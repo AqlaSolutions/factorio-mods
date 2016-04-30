@@ -9,6 +9,10 @@
             "enabled": "true"
         },
         {
+            "name": "alien-science",
+            "enabled": "true"
+        },
+        {
             "name": "autofill",
             "enabled": "true"
         },
