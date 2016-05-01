@@ -45,7 +45,15 @@
             "enabled": "true"
         },
         {
+            "name": "Landfill",
+            "enabled": "true"
+        },
+        {
             "name": "Larger Inventory",
+            "enabled": "true"
+        },
+        {
+            "name": "launch-control",
             "enabled": "true"
         },
         {
@@ -65,6 +73,18 @@
             "enabled": "true"
         },
         {
+            "name": "RailTanker",
+            "enabled": "true"
+        },
+        {
+            "name": "research-queue",
+            "enabled": "true"
+        },
+        {
+            "name": "SmartTrains",
+            "enabled": "true"
+        },
+        {
             "name": "TheFatController",
             "enabled": "true"
         },
@@ -74,6 +94,10 @@
         },
         {
             "name": "upgrade-planner",
+            "enabled": "true"
+        },
+        {
+            "name": "Warehousing",
             "enabled": "true"
         },
         {
